@@ -24,6 +24,6 @@ Tela de edição de um item:
 
 ## Tecnologias Utilizadas
 
-- ![HTML](https://img.shields.io/badge/HTML-Verde)
-- ![CSS](https://img.shields.io/badge/CSS-Verde)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-Amarelo)
+[![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-5E5E5E?style=for-the-badge&logo=css3&logoColor=1572B6)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-5E5E5E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
